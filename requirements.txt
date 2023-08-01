@@ -3,4 +3,4 @@ matplotlib
 nltk
 gensim
 pandas
-senborn
+seaborn
