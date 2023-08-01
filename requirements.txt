@@ -1,6 +1,5 @@
-scikit-learn
 matplotlib
-nltk
-gensim
 pandas
 seaborn
+numpy
+plotly

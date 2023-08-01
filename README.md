@@ -8,6 +8,10 @@ The question is often asked, "Why can't we cure cancer?" One reason is that ther
 
 The purpose of this project is to analysis the potential risk factors for cancer through analyizing the data of cancer death rate from each state in Unite States (2007-2013), in order to gain insights into how different demographic groups may be affected by cancer, which can help identify populations that are particularly vulnerable or may require targeted interventions. 
 
+
+![Aggregating Data Hides Cancer Disparities Affecting Asian and NHPI Patients  in the US - Cancer Therapy Advisor](https://www.cancertherapyadvisor.com/wp-content/uploads/sites/12/2023/01/woman-with-cancer-with-doctor_G_364273373-860x573.jpg)
+
+
 ## Main Research Questions
  1. Are there significant differences in total cancer rates among states?
  2. How do cancer rates differ between males and females, and across different age groups?
