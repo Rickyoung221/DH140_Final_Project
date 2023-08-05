@@ -5,5 +5,4 @@ numpy
 plotly.express
 beautifulsoup4
 requests
-glob
-zipfile
+pathlib
