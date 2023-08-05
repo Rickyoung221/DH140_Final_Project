@@ -2,6 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rickyoung221/DH140_Final_Project/main)
 
+[Link to Blog Site for this project](https://rickyoung221.github.io/Cancer_blog/)
 
 ![What is cancer? | MD Anderson Cancer Center](https://www.mdanderson.org/images/publications/cancerwise/Generics/cancer-metastasis-cancerwise.jpg)
 Image Creator: Jordan T. Pietz MA, CMI 
