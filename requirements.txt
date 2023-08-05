@@ -5,5 +5,5 @@ numpy
 plotly.express
 beautifulsoup4
 requests
-os
+glob
 zipfile
