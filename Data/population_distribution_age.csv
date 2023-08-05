@@ -1,0 +1,70 @@
+State,2008,2009,2010,2011,2012,2013,Avg_Rate
+United States,0.126,0.1272,0.1301,0.1323,0.137,0.141,0.132266667
+Alabama,0.1353,0.1369,0.1375,0.1396,0.1442,0.149,0.140416667
+Alaska,0.0735,0.0766,0.0769,0.083,0.0845,0.0941,0.081433333
+Arizona,0.1337,0.132,0.1399,0.1438,0.1506,0.1554,0.142566667
+Arkansas,0.1409,0.1399,0.1431,0.1447,0.149,0.1526,0.145033333
+California,0.1117,0.1115,0.1144,0.1167,0.1212,0.1255,0.116833333
+Colorado,0.1031,0.1058,0.109,0.1124,0.1179,0.1227,0.111816667
+Connecticut,0.1337,0.1352,0.1399,0.1419,0.147,0.1499,0.141266667
+Delaware,0.1358,0.1415,0.1431,0.1483,0.1553,0.1581,0.147016667
+District of Columbia,0.1181,0.1159,0.1177,0.115,0.1162,0.116,0.116483333
+Florida,0.1737,0.1726,0.1746,0.1772,0.1822,0.1872,0.177916667
+Georgia,0.101,0.1028,0.1065,0.1097,0.1154,0.1201,0.10925
+Hawaii,0.1516,0.1469,0.1491,0.1517,0.1552,0.1622,0.152783333
+Idaho,0.1145,0.1183,0.1253,0.1284,0.1318,0.1385,0.126133333
+Illinois,0.1196,0.1208,0.1237,0.1256,0.1299,0.1332,0.125466667
+Indiana,0.1247,0.1258,0.1281,0.13,0.1349,0.1381,0.130266667
+Iowa,0.142,0.1434,0.1453,0.1465,0.1496,0.152,0.146466667
+Kansas,0.1284,0.126,0.1308,0.1312,0.1339,0.1393,0.1316
+Kentucky,0.1292,0.1302,0.1324,0.1351,0.1395,0.1438,0.135033333
+Louisiana,0.1197,0.1209,0.1221,0.1245,0.1296,0.1308,0.1246
+Maine,0.1509,0.1539,0.158,0.1631,0.1697,0.1764,0.162
+Maryland,0.1206,0.1209,0.1225,0.1246,0.129,0.1332,0.125133333
+Massachusetts,0.1287,0.1323,0.1365,0.1384,0.1434,0.1479,0.137866667
+Michigan,0.1278,0.1321,0.1369,0.1398,0.1455,0.1494,0.138583333
+Minnesota,0.119,0.1225,0.1263,0.1292,0.1327,0.1375,0.127866667
+Mississippi,0.1229,0.1257,0.1293,0.1295,0.1343,0.1392,0.13015
+Missouri,0.1325,0.1346,0.1391,0.1408,0.1457,0.149,0.140283333
+Montana,0.1369,0.1429,0.1497,0.1497,0.1568,0.1617,0.149616667
+Nebraska,0.1282,0.1316,0.1324,0.134,0.1361,0.1395,0.133633333
+Nevada,0.1149,0.1163,0.1216,0.1256,0.1311,0.1369,0.1244
+New Hampshire,0.1238,0.1321,0.1351,0.1386,0.1469,0.1522,0.138116667
+New Jersey,0.129,0.1319,0.1336,0.1357,0.1393,0.1433,0.135466667
+New Mexico,0.1317,0.1313,0.134,0.1367,0.1414,0.1486,0.137283333
+New York,0.1312,0.1324,0.1339,0.1352,0.1394,0.1425,0.135766667
+North Carolina,0.123,0.1262,0.1299,0.1321,0.1378,0.1432,0.132033333
+North Dakota,0.1373,0.1429,0.1405,0.1421,0.1404,0.1397,0.140483333
+Ohio,0.134,0.1354,0.1392,0.1408,0.146,0.1496,0.140833333
+Oklahoma,0.1325,0.134,0.135,0.1365,0.1396,0.1414,0.1365
+Oregon,0.132,0.134,0.1392,0.1432,0.1499,0.1541,0.142066667
+Pennsylvania,0.1492,0.1512,0.1536,0.1547,0.159,0.163,0.155116667
+Rhode Island,0.1387,0.1415,0.1424,0.1443,0.1504,0.1535,0.145133333
+South Carolina,0.1329,0.1362,0.1376,0.1413,0.1483,0.1534,0.141616667
+South Dakota,0.1405,0.139,0.1419,0.1446,0.1412,0.1445,0.14195
+Tennessee,0.1292,0.1309,0.135,0.1365,0.1423,0.1456,0.136583333
+Texas,0.1002,0.1013,0.1032,0.1048,0.1085,0.1116,0.104933333
+Utah,0.0891,0.09,0.0904,0.0919,0.0953,0.098,0.09245
+Vermont,0.1391,0.1432,0.147,0.1516,0.1612,0.1667,0.151466667
+Virginia,0.1221,0.1222,0.1239,0.1264,0.1318,0.1359,0.12705
+Washington,0.1194,0.1201,0.1237,0.1264,0.1316,0.1369,0.12635
+West Virginia,0.1532,0.1557,0.1615,0.1623,0.1673,0.1729,0.16215
+Wisconsin,0.13,0.132,0.1353,0.1371,0.1422,0.1466,0.1372
+Wyoming,0.1228,0.1224,0.1238,0.1261,0.1304,0.133,0.126416667
+Puerto Rico,0.1362,0.1409,0.1462,0.1521,0.1582,0.1653,0.149816667
+,,,,,,,
+Notes,,,,,,,
+The American Community Survey did not release the 1-year estimates for 2020 due to significant disruptions to data collection brought on by the coronavirus pandemic. For 2020 data please refer to the [Population Distribution by Age (CPS)](https://www.kff.org/other/state-indicator/population-distribution-by-age-cps/). We will continue to report data from the ACS for 2021 and later. Estimates from the CPS are not comparable to estimates from ACS.,,,,,,,
+,,,,,,,
+"Population and demographic data on are based on analysis of the Census Bureau’s American Community Survey (ACS) and may differ from other population estimates published yearly by the Census Bureau. U.S. and state population data displayed on this site are restricted to the civilian, non-institutionalized population for whom ACS collects and reports poverty information.    ",,,,,,,
+,,,,,,,
+Population numbers are rounded to the nearest 100.,,,,,,,
+,,,,,,,
+Data include the civilian noninstitutionalized population in the United States.,,,,,,,
+,,,,,,,
+Sources,,,,,,,
+"KFF estimates based on the 2008-2021 American Community Survey, 1-Year Estimates.",,,,,,,
+,,,,,,,
+,,,,,,,
+Footnotes,,,,,,,
+1. US total excludes Puerto Rico.,,,,,,,

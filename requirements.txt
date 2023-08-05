@@ -2,4 +2,8 @@ matplotlib
 pandas
 seaborn
 numpy
-plotly
+plotly.express
+BeautifulSoup
+requests
+os
+zipfile
