@@ -1,21 +1,18 @@
-# DH140_Final_Project
+# Risk Factors of Lung Cancer Mortality: Assumption and Verification
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rickyoung221/DH140_Final_Project/main)
 
 ## Topic
 
-The question is often asked, "Why can't we cure cancer?" One reason is that there isn't just "one" cancer. There are more than 200 types of cancer and treatment for one type might not work for another. 
+This project aims to investigate potential factors that affect the cancer death rate. Based on the baseline datasets found, the project would mainly take the state which has the highest cancer mortality as the main comparison sample, focusing on the field of education, air quality, and population distribution to investigate their correlation to the cancer death rate.
 
-The purpose of this project is to analysis the potential risk factors for cancer through analyizing the data of cancer death rate from each state in Unite States (2007-2013), in order to gain insights into how different demographic groups may be affected by cancer, which can help identify populations that are particularly vulnerable or may require targeted interventions. 
-
-
-![Aggregating Data Hides Cancer Disparities Affecting Asian and NHPI Patients  in the US - Cancer Therapy Advisor](https://www.cancertherapyadvisor.com/wp-content/uploads/sites/12/2023/01/woman-with-cancer-with-doctor_G_364273373-860x573.jpg)
+![What is cancer? | MD Anderson Cancer Center](https://www.mdanderson.org/images/publications/cancerwise/Generics/cancer-metastasis-cancerwise.jpg)
+Image Creator: Jordan T. Pietz MA, CMI 
+Copyright: © 2020 The University of Texas MD Anderson Cancer Center
 
 
 ## Main Research Questions
- 1. Are there significant differences in total cancer rates among states?
- 2. How do cancer rates differ between males and females, and across different age groups?
- 3. Are there variations in cancer rates based on different racial or ethnic groups?
- 4. Which states have the highest and lowest rates of breast, colorectal, and lung cancer?
- 5. Are there any correlations between the rates of different types of cancer?
- 6. Are race and ethnicity risk factors for cancer?
+
+- Which types of cancer have the highest death rates overall, and how does the rate vary by state?
+- Are there any correlations between cancer death rates and other factors, such as educational level? Any others?
+- Any measures that can reduce the cancer death rate?
