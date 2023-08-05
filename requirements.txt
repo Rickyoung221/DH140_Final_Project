@@ -3,7 +3,7 @@ pandas
 seaborn
 numpy
 plotly.express
-BeautifulSoup
+beautifulsoup4
 requests
 os
 zipfile
