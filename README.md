@@ -10,7 +10,9 @@ Copyright: © 2020 The University of Texas MD Anderson Cancer Center
 
 ## Introduction
 
-This project aims to investigate potential factors that affect the cancer death rate. Based on the baseline datasets found, the project would mainly take the state which has the highest cancer mortality as the main comparison sample, focusing on the field of education, air quality, and population distribution to investigate their correlation to the cancer death rate.
+
+This project aims to investigate potential factors that affect the cancer death rate. Based on the baseline datasets found, the project would mainly take the state which has the highest cancer mortality as the main comparison sample, focusing on the field of education, air quality, aging population, and race differences to investigate their correlation to the cancer death rate. 
+
 
 
 
